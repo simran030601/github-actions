@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: Simple JS Actions
         id: greet
-        uses: actions/hello-world-javascript-actions@master
+        uses: actions/hello-world-javascript-action@master
         with: 
           who-to-greet: Akansha
 
